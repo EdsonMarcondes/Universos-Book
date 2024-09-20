@@ -2,8 +2,9 @@
      --preto: #000000;
      font-size: 'Popin', 'sans serif' ;
      --branco:#FFFFFF;
-  }
-  
+     --azul-degrade: linear-gradient(97.54deg, #002fs2 35. 49%, #3265899 165. 37% ;
+     --azul:
+     
   body {
     backgorund-color: var(--preto);
     color: var(--branco);
